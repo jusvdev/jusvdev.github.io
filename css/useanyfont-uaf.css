@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'brabra';
+					src: url(./../fonts/9378Brabra.woff2) format('woff2'),
+						url(./../fonts/9378Brabra.woff) format('woff');
+					  font-display: auto;
+				}
+
+				.brabra{font-family: 'brabra' !important;}
+
+		
